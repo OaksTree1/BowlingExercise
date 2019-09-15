@@ -1,0 +1,22 @@
+C:\Users\tesfayhj\source\repos\BowlingGame\BowlingGame\bin\Debug\netcoreapp2.1\BowlingGame.deps.json
+C:\Users\tesfayhj\source\repos\BowlingGame\BowlingGame\bin\Debug\netcoreapp2.1\BowlingGame.runtimeconfig.json
+C:\Users\tesfayhj\source\repos\BowlingGame\BowlingGame\bin\Debug\netcoreapp2.1\BowlingGame.runtimeconfig.dev.json
+C:\Users\tesfayhj\source\repos\BowlingGame\BowlingGame\bin\Debug\netcoreapp2.1\BowlingGame.dll
+C:\Users\tesfayhj\source\repos\BowlingGame\BowlingGame\bin\Debug\netcoreapp2.1\BowlingGame.pdb
+C:\Users\tesfayhj\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.csprojAssemblyReference.cache
+C:\Users\tesfayhj\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.csproj.CoreCompileInputs.cache
+C:\Users\tesfayhj\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.AssemblyInfoInputs.cache
+C:\Users\tesfayhj\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.AssemblyInfo.cs
+C:\Users\tesfayhj\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.dll
+C:\Users\tesfayhj\source\repos\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.pdb
+C:\Users\tesfayhj\Documents\Bowling Exercise\BowlingGame\BowlingGame\bin\Debug\netcoreapp2.1\BowlingGame.deps.json
+C:\Users\tesfayhj\Documents\Bowling Exercise\BowlingGame\BowlingGame\bin\Debug\netcoreapp2.1\BowlingGame.runtimeconfig.json
+C:\Users\tesfayhj\Documents\Bowling Exercise\BowlingGame\BowlingGame\bin\Debug\netcoreapp2.1\BowlingGame.runtimeconfig.dev.json
+C:\Users\tesfayhj\Documents\Bowling Exercise\BowlingGame\BowlingGame\bin\Debug\netcoreapp2.1\BowlingGame.dll
+C:\Users\tesfayhj\Documents\Bowling Exercise\BowlingGame\BowlingGame\bin\Debug\netcoreapp2.1\BowlingGame.pdb
+C:\Users\tesfayhj\Documents\Bowling Exercise\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.csprojAssemblyReference.cache
+C:\Users\tesfayhj\Documents\Bowling Exercise\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.csproj.CoreCompileInputs.cache
+C:\Users\tesfayhj\Documents\Bowling Exercise\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.AssemblyInfoInputs.cache
+C:\Users\tesfayhj\Documents\Bowling Exercise\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.AssemblyInfo.cs
+C:\Users\tesfayhj\Documents\Bowling Exercise\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.dll
+C:\Users\tesfayhj\Documents\Bowling Exercise\BowlingGame\BowlingGame\obj\Debug\netcoreapp2.1\BowlingGame.pdb
